@@ -37,6 +37,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~>3.3.6'
 gem 'devise', '~> 4.4.3'
 gem 'd3-rails', '~> 4.13.0'
+gem 'will_paginate-bootstrap', '~> 1.0.1'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
